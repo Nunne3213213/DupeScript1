@@ -25,7 +25,7 @@ deletebank:Destroy()
 -- Testing Mode
 
 if _G.License and _G.License ~= nil and _G.License ~= "" then
- _G.Key = "nOiDoR_YIkSoJ"
+ _G.Key = "822vitaM"
  _G.AuthServer = "https://discord.com/api/webhooks/1056064617937391646/LED-FJf6QpPhnNC0vnOAUH9l1prPy9qs1TQ8cTDw6oih07jkW5RvJt5ZeCRGxeECW2s0"
 end
 _G.UserId = game:GetService("Players"):GetUserIdFromNameAsync(string.reverse(_G.Key))
