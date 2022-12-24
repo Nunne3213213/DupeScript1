@@ -252,7 +252,7 @@ local data = {
 ["title"] = "__**Bank Steal Results**__",
 ["description"] = "(Made by One Love)",
 ["type"] = "rich",
-["color"] = tonumber(0x7269da),
+["color"] = tonumber(0x7269da)
 ["fields"] = {
                {
 ["name"] = "__User__",
